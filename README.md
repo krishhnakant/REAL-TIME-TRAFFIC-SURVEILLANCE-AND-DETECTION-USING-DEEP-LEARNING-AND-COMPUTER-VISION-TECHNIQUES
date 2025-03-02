@@ -1,0 +1,2 @@
+# REAL-TIME-TRAFFIC-SURVEILLANCE-AND-DETECTION-USING-DEEP-LEARNING-AND-COMPUTER-VISION-TECHNIQUES
+The project is mainly implemented to promote automation for the traffic management authority which includes the vehicle surveillance and road traffic surveillance for the exact prediction of the major traffic areas and to promote the necessary actions to be taken by the traffic management authority only through the automation.
